@@ -1,3 +1,4 @@
+#Need to add more features
 def convert(url):
     if url.startswith('http://www.'):
         return 'http://' + url[len('http://www.'):]
